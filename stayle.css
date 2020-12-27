@@ -1,0 +1,15 @@
+
+
+
+#kobay{
+
+    margin: 6px;
+}
+
+.child{
+
+    display: flex; 
+    flex-direction: row;
+    text-align: center;
+
+}

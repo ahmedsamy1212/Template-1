@@ -1,0 +1,27 @@
+
+*{
+    font-family: arial;
+}
+.children{
+    background-color: #EEE;
+    padding: 20px;
+    margin: 50px;
+    
+}
+
+
+ 
+ .container{
+    font-weight: bold;
+    font-size: 1.17em;
+    display: block;
+}
+ .linky{
+
+    display: flex;
+    justify-content:space-around ;
+    background-color: #EEE;
+    margin: 250px;
+
+}
+
